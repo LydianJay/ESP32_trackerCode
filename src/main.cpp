@@ -3,7 +3,7 @@
 
   MIT License
 
-  Copyright (c) 2022 LydianJay (Lloyd Jay Arpilleda Edradan)
+  Copyright (c) 2023 LydianJay (Lloyd Jay Arpilleda Edradan)
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
